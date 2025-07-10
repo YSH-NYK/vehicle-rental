@@ -1,5 +1,5 @@
 {
-  "name": "vehicle-rental-form-frontend",
+  "name": "vehicle-rental-frontend",
   "version": "1.0.0",
   "description": "Frontend for vehicle rental form",
   "main": "index.js",
